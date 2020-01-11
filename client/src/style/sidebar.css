@@ -1,0 +1,31 @@
+.sidebar {
+    background-color: white;
+    float: left;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    min-width: 220px;
+    max-width: 220px;
+    float: left;
+    min-height: 100vh;
+}
+
+.sidebtn {
+    color: gray;
+    padding-left: 0.5rem;
+}
+
+.sidebtn:hover {
+    background-color: #e9ecef;
+    color: black;
+    border-left: solid #ff4500;
+}
+
+.content {
+    float: left;
+}
+
+.red {
+    color: #ff4500;
+}

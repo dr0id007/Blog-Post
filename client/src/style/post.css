@@ -1,0 +1,47 @@
+.post {
+    background-color: #eeeeee;
+    height: 100vh;
+}
+
+.bottom-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.bottom-icon div {
+    padding-top: 0em;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+.gray {
+    background-color: #eeeeee;
+}
+
+.icon-btn {
+    background-color: transparent;
+    border: none;
+}
+
+.icon-btn:hover {
+    border: none;
+}
+
+.icon-btn:active {
+    border: none;
+}
+
+.save {
+    background-color: #eeeeee;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+.red:hover {
+    background-color: red;
+    color: white;
+}

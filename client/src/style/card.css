@@ -1,0 +1,39 @@
+.text-image {
+    margin-bottom: 0em;
+}
+
+.text-caption {
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 0em;
+}
+
+.text-desc {
+    font-weight: 100;
+    margin-bottom: 0em;
+}
+
+.text-time {
+    font-weight: lighter;
+    color: gray;
+}
+
+.text-box {
+    padding-left: 2rem;
+}
+
+.likes-box {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    text-align: center;
+    color: gray;
+}
+
+.text-likes {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    font-size: 0.9rem;
+    color: black;
+}

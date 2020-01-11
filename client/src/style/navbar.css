@@ -1,0 +1,17 @@
+.reddit-logo {
+    margin: 0em;
+    padding: 0em;
+}
+
+.nav-icon {
+    color: #000;
+}
+
+.nav-icon:hover {
+    color: black;
+
+}
+
+.navbar {
+    background-color: white;
+}
